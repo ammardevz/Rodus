@@ -53,6 +53,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
+This project incorporates the following open-source software:
+
 - [JavaFX](https://openjfx.io/) - JavaFX framework for building desktop applications
 - [Apache Maven](https://maven.apache.org/) - Dependency management and build tool
 - [Lombok](https://projectlombok.org/) - Simplify Java code with annotations
+
+The project is licensed under the MIT License, which allows for the use, modification, and distribution of the software while providing the necessary disclaimers and limitations.
