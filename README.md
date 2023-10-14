@@ -1,64 +1,55 @@
 # Rodus
 
-Rodus is a professional-grade JavaFX application for file encryption and decryption. It provides a user-friendly interface to encrypt and decrypt files using the AES encryption algorithm.
+Rodus is an advanced JavaFX application designed for secure file encryption and decryption. With its intuitive user interface, Rodus allows users to encrypt and decrypt files using the highly secure AES encryption algorithm.
 
 ## Features
 
-- Securely encrypt files with a password and PIN
-- Decrypt encrypted files using the same password and PIN
-- Utilizes the robust AES encryption algorithm
-- Intuitive and visually appealing JavaFX interface
+- Robust encryption using AES algorithm
+- Simple and user-friendly interface
+- Password and PIN-based encryption and decryption
 
 ## Getting Started
 
 ### Prerequisites
 
+Make sure you have the following requirements installed on your system:
+
 - Java Runtime Environment (JRE) 11 or higher
 
 ### Installation
 
-You can download the latest version of Rodus from the [Releases](https://github.com/ammardevz/Rodus/releases) page. Choose the appropriate installation file for your operating system:
+To install Rodus, follow these steps:
 
-- For Windows: Download the `.exe` or `.msi` installer file.
-- For other platforms: Download the `.jar` file.
+1. Visit the [Releases](https://github.com/ammardevz/Rodus/releases) page on GitHub.
+2. Download the appropriate installation file based on your operating system:
+   - For Windows: Choose the `.exe` or `.msi` installer file.
+   - For other platforms: Download the `.jar` file.
+3. Once the download is complete, run the installer file.
 
 ### Usage
 
-1. Double-click the downloaded installation file to launch the installer.
+To use Rodus, follow these steps:
 
-   - For Windows: Follow the on-screen instructions to complete the installation.
-   - For other platforms: The `.jar` file can be directly executed with the following command:
-
-     ```
-     java -jar rodus.jar
-     ```
-     Alternatively, you may be able to run the installation file normally without needing to execute any additional commands, as it contains the necessary dependencies           (such as DLLs or shared libraries) to run smoothly on your platform.
-
-     Please note that the above instructions assume you have Java Runtime Environment (JRE) installed on your system. If you don't have it already, you will need to install      it before proceeding with the installation of rodus.jar.
-2. Launch the Rodus application.
-
-3. Select the files you want to encrypt or decrypt.
-
-4. Enter a password and a PIN for encryption/decryption.
-
-5. Click the "Encrypt" or "Decrypt" button to perform the operation.
-
-6. The encrypted or decrypted files will be saved to the same location as the original files with the ".encrypted" or ".decrypted" extension, respectively.
+1. Launch the Rodus application.
+2. Select the files you want to encrypt or decrypt.
+3. Enter a password and a PIN for encryption/decryption.
+4. Click the "Encrypt" or "Decrypt" button to perform the operation.
+5. The encrypted or decrypted files will be saved in the same location as the original files, with the respective file extensions.
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+If you encounter any issues or have suggestions for improvements, feel free to contribute to the Rodus project. You can open an issue or submit a pull request on the GitHub repository.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Rodus is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ## Acknowledgements
 
-This project incorporates the following open-source software:
+Rodus incorporates the following open-source software:
 
-- [JavaFX](https://openjfx.io/) - JavaFX framework for building desktop applications
+- [JavaFX](https://openjfx.io/) - Java framework for building desktop applications
 - [Apache Maven](https://maven.apache.org/) - Dependency management and build tool
 - [Lombok](https://projectlombok.org/) - Simplify Java code with annotations
 
-The project is licensed under the MIT License, which allows for the use, modification, and distribution of the software while providing the necessary disclaimers and limitations.
+The use of these technologies enhances the functionality and development process of Rodus.
