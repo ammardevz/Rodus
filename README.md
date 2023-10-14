@@ -32,7 +32,9 @@ You can download the latest version of Rodus from the [Releases](https://github.
      ```
      java -jar rodus.jar
      ```
+     Alternatively, you may be able to run the installation file normally without needing to execute any additional commands, as it contains the necessary dependencies           (such as DLLs or shared libraries) to run smoothly on your platform.
 
+     Please note that the above instructions assume you have Java Runtime Environment (JRE) installed on your system. If you don't have it already, you will need to install      it before proceeding with the installation of rodus.jar.
 2. Launch the Rodus application.
 
 3. Select the files you want to encrypt or decrypt.
