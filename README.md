@@ -22,7 +22,7 @@ To install Rodus, follow these steps:
 
 1. Visit the [Releases](https://github.com/ammardevz/Rodus/releases) page on GitHub.
 2. Download the appropriate installation file based on your operating system:
-   - For Windows: Choose the `.exe` or `.msi` installer file.
+   - For Windows: Choose the `.exe` or `.jar` file.
    - For other platforms: Download the `.jar` file.
 3. Once the download is complete, run the installer file.
 
