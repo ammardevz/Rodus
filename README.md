@@ -13,7 +13,7 @@ Rodus is a professional-grade JavaFX application for file encryption and decrypt
 
 ### Prerequisites
 
-- Java Runtime Environment (JRE) 8 or higher
+- Java Runtime Environment (JRE) 11 or higher
 
 ### Installation
 
